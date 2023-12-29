@@ -24,7 +24,11 @@ with Adam optimization in cnn_main.py. Set batch size = 5.
 
 Finished model_test function for model testing (using test data) in cnn_main.py.
 
-**graph convolutional network **
+
+
+
+
+**Graph convolutional network **
 for paper classification (7 classes) using Pytorch. 
 Finished the code in gnn_main.py and gnn_utils.py
 
